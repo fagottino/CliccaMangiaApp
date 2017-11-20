@@ -13,7 +13,7 @@
         android:label="Tests for it.aorlando.cliccamangia"
         android:targetPackage="it.aorlando.cliccamangia" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

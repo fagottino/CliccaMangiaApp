@@ -49,7 +49,7 @@ public class ItemsView extends DialogFragment {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view =  inflater.inflate(R.layout.item_display, container, false);
-        txtItemName = (TextView) view.findViewById(R.id.txtItemName);
+        //txtItemName = (TextView) view.findViewById(R.id.txtItemName);
 
         return view;
     }

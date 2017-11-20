@@ -166,7 +166,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                         public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                             ItemsView itemsView = new ItemsView();
                             Bundle bundle = new Bundle();
-                            bundle.putParcelableArrayList("data", listItems.get(position));
+                            //bundle.putParcelableArrayList("data", listItems.get(position));
                             itemsView.setArguments(bundle);
                             itemsView.show((MainActivity.this).getSupportFragmentManager(),"Image Dialog");
                             //itemsView.show(fm, "Dialog Fragment");
