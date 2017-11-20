@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Clicca e Mangia</string>
+    <string name="open">Apri</string>
+    <string name="close">Chiudi</string>
+    <string name="contact">Contatti</string>
+    <string name="exit">Esci</string>
+    <string name="ourPlates">I nostri Piatti</string>
+    <string name="ourDrinks">Le nostre Bevande</string>
+    <string name="makeOrder">Crea un Ordine</string>
+    <string name="myAccount">Il mio account</string>
+    <string name="plates">I piatti</string>
+    <string name="drinks">Le bevande</string>
+    <string name="needHelp">Scegli come contattarci</string>
+    <string name="callUs">Chiamaci</string>
+    <string name="phoneNumber">+39 1234 567890</string>
+    <string name="or">oppure</string>
+    <string name="writeUs">Scrivici</string>
+    <string name="email">cliccaemangia@gmail.com</string>
+    <string name="loading">Caricamento in corso...</string>
+    <string name="loadingComplete">Caricamento completato</string>
+    <string name="menuOfTheDay">Menù del giorno</string>
+    <string name="someItems">Alcune delle cose che puoi gustare</string>
+    <string name="warning">Attenzione</string>
+    <string name="internetIsRequired">Per sfruttare a pieno l\'app di Clicca e Mangia cerca una connessione internet!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_of_the_day">MenuOfTheDay</string>
+    <string name="toEat">Per mangiare</string>
+    <string name="toDrink">Da bere</string>
+    <string name="atThePriceOf">Al prezzo di</string>
+</resources>

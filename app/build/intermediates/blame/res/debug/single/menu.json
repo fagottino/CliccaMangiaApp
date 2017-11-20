@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/menu/menu_menu_of_the_day.xml",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/menu/menu_menu_of_the_day.xml"
+    }
+]

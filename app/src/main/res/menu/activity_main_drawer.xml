@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/group_menu"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_plates"
+            android:icon="@mipmap/ic_restaurant_black_24dp"
+            android:title="@string/plates"
+            app:showAsAction="always" />
+
+        <item
+            android:id="@+id/nav_drinks"
+            android:icon="@mipmap/ic_local_bar_black_24dp"
+            android:title="@string/drinks"
+            app:showAsAction="always|withText" />
+
+        <item android:title="Servizio Clienti">
+            <menu>
+            <item android:id="@+id/nav_contact"
+                android:icon="@mipmap/ic_perm_phone_msg_black_24dp"
+                android:title="@string/contact"
+                app:showAsAction="always|withText" />
+            </menu>
+        </item>
+    </group>
+
+    <group
+        android:id="@+id/group_share"
+        android:checkableBehavior="none">
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_menu_share"
+        android:title="Share"
+        />
+    </group>
+</menu>

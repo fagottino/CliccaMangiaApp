@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_perm_phone_msg_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_perm_phone_msg_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_restaurant_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_restaurant_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_local_bar_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_local_bar_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_chat_bubble_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_chat_bubble_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_email_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_account_circle_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_exit_to_app_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_phone_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher2.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_shopping_basket_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_shopping_basket_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_settings_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_person_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_more_vert_black_24dp.png",
+        "source": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/src/main/res/mipmap-xxhdpi/ic_more_vert_black_24dp.png"
+    }
+]

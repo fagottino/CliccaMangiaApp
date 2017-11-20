@@ -1,0 +1,7 @@
+#Tue Sep 19 19:25:40 CEST 2017
+base.0=/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_241e4bb8d02a88ba6a49ca9aadeb0f11e54538bd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39d27c0f970057d95b7ec69442563b5412456d1a/classes.dex
+base.1=/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39d27c0f970057d95b7ec69442563b5412456d1a
+file.0=/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_241e4bb8d02a88ba6a49ca9aadeb0f11e54538bd/classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d56b40b568f6f676ad9b7276cd47e621b5ab7a2">
+        <dex dex="/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39d27c0f970057d95b7ec69442563b5412456d1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_241e4bb8d02a88ba6a49ca9aadeb0f11e54538bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fagottino/.android/build-cache/179098bf3c6d270940460fca601c4d84d435e9f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0892a8497c2cc70f972e7ab6cc75b76b792490e/classes.dex" />
+    </item>
+
+</items>

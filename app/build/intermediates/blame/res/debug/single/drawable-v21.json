@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/fagottino/.android/build-cache/242fc32193b432f8cb556d00c789cf3475d809e0/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/fagottino/.android/build-cache/c21942df86bc6d2a988b42f329cecd0301e23bca/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/fagottino/.android/build-cache/242fc32193b432f8cb556d00c789cf3475d809e0/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/fagottino/.android/build-cache/242fc32193b432f8cb556d00c789cf3475d809e0/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/fagottino/.android/build-cache/c21942df86bc6d2a988b42f329cecd0301e23bca/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/fagottino/.android/build-cache/c21942df86bc6d2a988b42f329cecd0301e23bca/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/fagottino/.android/build-cache/242fc32193b432f8cb556d00c789cf3475d809e0/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/fagottino/Scrivania/project/android/CliccaMangia/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/fagottino/.android/build-cache/c21942df86bc6d2a988b42f329cecd0301e23bca/output/res/drawable-v21/avd_hide_password.xml"
+    }
+]
